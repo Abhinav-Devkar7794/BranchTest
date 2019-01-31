@@ -15,6 +15,11 @@ public class Student {
 		System.out.println("Postgresql");
 		System.out.println("ADK");
 		System.out.println("Git");
+		
+		System.out.println("Java 8 Features ");
+		System.out.println("Default Method In Interface ");
+		System.out.println("Static Method in Interface ");
+		
 	}
 
 }
