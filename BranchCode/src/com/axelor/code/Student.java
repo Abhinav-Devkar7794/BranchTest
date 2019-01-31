@@ -7,10 +7,20 @@ public class Student {
 
 		
 		System.out.println("Abhinav Devkar");
-		System.out.println("Coding Badshah !!");
-		System.out.println("King Of Coding  !!");
-		System.out.println("Java Master !!");
-		System.out.println("Positive and Productive Coder !!");
+
+		
+		System.out.println("Courses :");
+		System.out.println("JPA");
+		System.out.println("Google Guice");
+		System.out.println("Hibernate");
+		System.out.println("Postgresql");
+		System.out.println("ADK");
+		System.out.println("Git");
+		
+		System.out.println("Java 8 Features ");
+		System.out.println("Default Method In Interface ");
+		System.out.println("Static Method in Interface ");
+		
 		
 	}
 
