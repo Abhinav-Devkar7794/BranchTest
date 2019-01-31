@@ -20,6 +20,8 @@ public class Student {
 		System.out.println("Default Method In Interface ");
 		System.out.println("Static Method in Interface ");
 		
+		System.out.println("Clear Understanding of ADK With ABS ");
+		
 	}
 
 }
